@@ -6,12 +6,6 @@ A desktop robotic arm — ESP32 driving 5 servos through a PCA9685 PWM controlle
 
 ![Robotic arm on the bench](docs/arm.jpg)
 
-## Team
-
-Built by **Daniela Munteanu** and **Mircea Morar**. The project was originally published at
-[mirceamihnea/robotic-arm-4dof](https://github.com/mirceamihnea/robotic-arm-4dof); this is
-our copy of it.
-
 ## Attribution
 
 **The mechanical design (3D-printed arm and gripper) is not our work.** It's based on the open-source models by **andrem4c** on Cults3D:
