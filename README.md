@@ -8,7 +8,7 @@ A desktop robotic arm — ESP32 driving 5 servos through a PCA9685 PWM controlle
 
 ## Attribution
 
-**The mechanical design (3D-printed arm and gripper) is my our work.** It's based on the open-source models by **andrem4c** on Cults3D:
+**The mechanical design (3D-printed arm and gripper) is my work.** It's based on the open-source models by **andrem4c** on Cults3D:
 
 - Arm: [4dof-robotic-arm-cobot-kuka-based](https://cults3d.com/en/3d-model/gadget/4dof-robotic-arm-cobot-kuka-based)
 - Controller box: [controller-box-for-robotic-arm-stl-files-and-pcb-files](https://cults3d.com/en/3d-model/gadget/controller-box-for-robotic-arm-stl-files-and-pcb-files)
